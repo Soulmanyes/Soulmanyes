@@ -17,4 +17,3 @@ The projects below were built by directing an AI coding agent (Claude Code): I s
 - **[Gesture Cam](https://github.com/Soulmanyes/gesture-cam)**: hand-gesture webcam effects for Discord
 - **[Minecraft Server Panel](https://github.com/Soulmanyes/minecraft-server-panel)**: Noctalia bar plugin to watch and run Minecraft servers over ssh
 
-My own coursework (Java, C#, SQL, MATLAB) isn't public.
