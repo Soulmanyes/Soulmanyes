@@ -26,7 +26,7 @@ The projects below were built by directing an AI coding agent (Claude Code): I s
 <table>
 <tr>
 <td align="center" width="50%"><a href="https://github.com/Soulmanyes/everyday-app"><img src="https://raw.githubusercontent.com/Soulmanyes/everyday-app/main/deploy/apps/img/everyday.webp" alt="Everyday"></a><br><b>Everyday</b></td>
-<td align="center" width="50%"><a href="https://github.com/Soulmanyes/movement-kit"><img src="https://raw.githubusercontent.com/Soulmanyes/movement-kit/main/sourceyaw/docs/screenshot.png" alt="Movement Kit"></a><br><b>Movement Kit</b></td>
+<td align="center" width="50%"><a href="https://github.com/Soulmanyes/movement-kit"><img src="https://raw.githubusercontent.com/Soulmanyes/movement-kit/main/strafe-review/docs/screenshot.png" alt="Movement Kit"></a><br><b>Movement Kit</b></td>
 </tr>
 <tr>
 <td align="center" width="50%"><a href="https://github.com/Soulmanyes/shellac"><img src="https://raw.githubusercontent.com/Soulmanyes/shellac/main/docs/screenshot.png" alt="Shellac"></a><br><b>Shellac</b></td>
